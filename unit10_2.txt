@@ -1,0 +1,3 @@
+>>> message = "I really like dogs."
+>>> message.replace('dog', 'cat')
+'I really like cats.'
